@@ -10,7 +10,7 @@ A full-stack web app to manage employee records: add, view, update, and remove e
 
 ## Tech Stack
 
-| Layer     | Technology                  |
+| Layer     | Technology                  
 |-----------|-----------------------------|
 | Frontend  | React |
 | Backend   | Java, Spring Boot           |
@@ -19,7 +19,7 @@ A full-stack web app to manage employee records: add, view, update, and remove e
 ```
 
 
-## API Endpoints
+## API Endpoint
 
 | Method | Endpoint              | Description         |
 |--------|-----------------------|---------------------|
