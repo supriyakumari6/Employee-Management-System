@@ -6,7 +6,7 @@ A full-stack web app to manage employee records: add, view, update, and remove e
 - Add a new employee
 - View all employees
 - Update employee details
-- Delete an employee
+- Delete an employees
 
 ## Tech Stack
 
